@@ -1,0 +1,17 @@
+body {
+  background-color: beige;
+}
+
+form {
+  background-color: white;
+  width: 320px;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  border: solid 1px;
+  border-radius: 5px;
+}
+
+input {
+}
