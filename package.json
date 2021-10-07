@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-snackbar": "^0.1.16"
+  }
+}
