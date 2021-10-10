@@ -28,3 +28,26 @@ form {
   border: solid 1px;
   border-radius: 5px;
 }
+
+#log {
+  background-color: white;
+  width: 320px;
+  margin-top: -50px;
+  margin: -50px auto 10px auto;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border: solid 1px;
+  border-radius: 5px;
+}
+
+#foodCard {
+  background-color: white;
+  width: 320px;
+  margin: 50px auto;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  border: solid 1px;
+  border-radius: 5px;
+}
